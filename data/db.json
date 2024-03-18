@@ -1,0 +1,66 @@
+
+{
+   "product": [
+      {
+        "id": 1,
+        "imageSrc": [".././src/image/1.png"],
+        "title": "Syltherine",
+        "description": "Stylish cafe chair",
+        "price": "Rp 2.500.000",
+        "discountPrice": "Rp 3.500.000"
+      },
+      {
+        "id": 2,
+        "imageSrc": [".././src/image/2.png"],
+        "title": "Modern Desk",
+        "description": "Sleek and functional desk",
+        "price": "Rp 2.500.000"
+      },
+      {
+        "id": 3,
+        "imageSrc": [".././src/image/3.png"],
+        "title": "Cozy Sofa",
+        "description": "Comfortable and inviting sofa",
+        "price": "Rp 7.000.000",
+        "discountPrice": "Rp 14.000.000"
+      },
+      {
+        "id": 4,
+        "imageSrc": [".././src/image/1.png"],
+        "title": "Vintage Lamp",
+        "description": "Elegant vintage-style lamp",
+        "price": "Rp 500.000"
+      },
+      {
+        "id": 5,
+        "imageSrc": [".././src/image/4.png"],
+        "title": "Rustic Bookshelf",
+        "description": "Rustic wooden bookshelf",
+        "price": "Rp 1.500.000"
+      },
+      {
+        "id": 6,
+        "imageSrc": [".././src/image/5.png"],
+        "title": "Industrial Bar Stool",
+        "description": "Sturdy industrial-style bar stool",
+        "price": "Rp 150.000"
+      },
+      {
+        "id": 7,
+        "imageSrc": [".././src/image/6.png"],
+        "title": "Minimalist Side Table",
+        "description": "Sleek and minimalist side table",
+        "price": "Rp 7.000.000",
+        "discountPrice": "Rp 14.000.000"
+      },
+      {
+        "id": 8,
+        "imageSrc": [".././src/image/1.png"],
+        "title": "Ergonomic Office Chair",
+        "description": "Comfortable and supportive office chair",
+        "price": "Rp 500.000"
+      }
+    ]
+
+}
+    
